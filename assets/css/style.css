@@ -261,9 +261,10 @@ textarea.input {
   height: 500px;
   border-radius: 50%;
   background: linear-gradient(to bottom, #1cd4af, #159b80);
-  bottom: 50%;
+  bottom: 0%;
   right: 50%;
   transform: translate(-40%, 38%);
+  opacity: 0.5;
 }
 
 .big-circle:after {
