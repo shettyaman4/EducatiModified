@@ -261,7 +261,7 @@ textarea.input {
   height: 500px;
   border-radius: 50%;
   background: linear-gradient(to bottom, #1cd4af, #159b80);
-  bottom: 0%;
+  bottom: -10%;
   right: 50%;
   transform: translate(-40%, 38%);
   opacity: 0.5;
@@ -281,7 +281,7 @@ textarea.input {
 .square {
   position: absolute;
   height: 400px;
-  top: 50%;
+  top: 80%;
   left: 50%;
   transform: translate(181%, 11%);
   opacity: 0.2;
